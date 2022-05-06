@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.vailamot.appsettings2.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_contact"
+        android:orderInCategory="150"
+        android:title="Contact"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_favorites"
+        android:orderInCategory="50"
+        android:title="Favorrites"
+        app:showAsAction="never" />
+
+</menu>

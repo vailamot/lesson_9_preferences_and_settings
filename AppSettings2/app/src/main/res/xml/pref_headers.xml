@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+    <header
+        android:fragment="com.vailamot.appsettings2.SettingsActivity$GeneralPreferenceFragment"
+        android:title="General"
+        />
+    <header
+        android:fragment="com.vailamot.appsettings2.SettingsActivity$GeneralPreferenceFragment"
+        android:title="Notifications"
+        />
+    <header
+        android:fragment="com.vailamot.appsettings2.SettingsActivity$GeneralPreferenceFragment"
+        android:title="Data and Sync"
+        />
+</preference-headers>
